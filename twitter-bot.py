@@ -1,4 +1,4 @@
-# need o install tweepy, in console "pip install tweepy"
+# need install tweepy, in console "pip install tweepy"
 import tweepy
 import time
 
